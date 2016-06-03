@@ -1,0 +1,2 @@
+# PilhaEstatica
+#include <stdio.h>
